@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Sessions](Sessions.md)
-* Speakers
+* [Speakers](Speakers.md)
 
