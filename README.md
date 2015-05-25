@@ -1,4 +1,4 @@
 # GDG Wisdom Jam Revised
 
-Placeholder
+Edited Placeholder from GitBook online..
 
