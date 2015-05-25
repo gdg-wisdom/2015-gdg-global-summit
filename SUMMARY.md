@@ -6,4 +6,5 @@
 * [Garages](garages/README.md)
 * [Unconferences](unconferences/README.md)
 * [Sandbox](sandbox/README.md)
+* [Glossary](GLOSSARY.md)
 
