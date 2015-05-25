@@ -1,0 +1,11 @@
+{
+    "plugins": [
+        "edit-link@1.3.0"
+    ],
+    "pluginsConfig": {
+        "edit-link": {
+            "base": "https://github.com/gdg-wisdom/2015-gdg-global-summit/edit/master",
+            "label": "Edit This Page"
+        }
+    }
+}
