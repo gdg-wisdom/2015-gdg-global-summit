@@ -1,6 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-* [Sessions](Sessions.md)
-* [Speakers](Speakers.md)
+* [Sessions](sessions/README.md)
+* [Speakers](speakers/README.md)
+* [Garages](garages/README.md)
+* [Sandbox](sandbox/README.md)
 
