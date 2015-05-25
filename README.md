@@ -1,4 +1,4 @@
-# GDG Wisdom Jam
+# GDG Wisdom Jam Revised
 
 Placeholder
 
