@@ -1,4 +1,3 @@
-# GDG Wisdom Jam Revised
+# GDG Summit GitBook 
 
-Edited Placeholder from GitBook online..
-
+A sandbox for GDG Summit Attendees to explore GitBook usage, and capture useful content for GDG Wisdom.
