@@ -42,3 +42,11 @@ The **top 5 vote-getters** were accepted and scheduled on Day 2 (Wednesday) in G
 
 <hr>
 
+#### **Make a LAN mirror of everything you need to develop Android Apps**
+*Derek Grant*
+
+**Abstract**:
+
+Do you want more bandwidth for your Android Fundamentals Study Jams? Yes, you do. Android Studio, SDK Manager, and the recommended version of JDK. It’s a lot to download, not to mention the SDK packages waiting for you in Android SDK Manager. GDG Suzhou will show you how to save your bandwidth by making everything available on LAN.
+
+<hr>
