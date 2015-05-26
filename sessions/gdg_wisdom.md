@@ -12,3 +12,4 @@ Slides here: http://j.mp/gdgsummit-wisdom
 
 On slack use [#wisdom](https://gdgsummit.slack.com/messages/wisdom/) during the GDG summit...
 
+![The Workflow](https://trello-attachments.s3.amazonaws.com/55649fd6d7ac620718b28623/2592x1944/1ddd2731543fd025beee9b0f0913bb5c/trello-479489658.jpg.jpeg)
