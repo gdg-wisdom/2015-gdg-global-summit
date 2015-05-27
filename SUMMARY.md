@@ -7,8 +7,8 @@
    * [Google Translate](sessions/google_translate.md)
    * [Web Keynote](sessions/web_keynote.md)
    * [GDG Wisdom](sessions/gdg_wisdom.md)
-   * Non-Violent Communication
    * [CSI:Lab](sessions/csilab.md)
+   * Non-Violent Communication
 * [Garages](garages/README.md)
 * [Unconferences](unconferences/README.md)
 * [Sandbox](sandbox/README.md)
