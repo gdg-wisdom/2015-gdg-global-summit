@@ -11,3 +11,9 @@ Since the naming and hierarchical implications of this are fairly important, we 
 This also prevents us having to deal with inadvertent duplicates or redundant chapters and sections being created concurrently by different members.
 
 You can request a new chapter, or a new section in a chapter, by [filing an Issue on our GitHub page](https://github.com/gdg-wisdom/2015-gdg-global-summit). Alternatively, just edit this Sandbox page and create a pull request.
+
+##Chapter Requests
+##Section Requests
+###Session Chapter
+Can you add a section on conferences?
+
