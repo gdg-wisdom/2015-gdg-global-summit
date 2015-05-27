@@ -2,6 +2,7 @@
 
 Test pull for class.
 
+*AWESOME (GDG) WISDOM*
 A sandbox for GDG Summit Attendees to explore GitBook usage, and capture useful content for GDG Wisdom. Which is awesome!
 
 *THIS IS AWESOME (GDG)WISDOM*
