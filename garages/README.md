@@ -57,4 +57,8 @@ GDG Wisdom is an initiative to capture and share community knowledge to make sta
 
 Do you want more bandwidth for your Android Fundamentals Study Jams? Yes, you do. Android Studio, SDK Manager, and the recommended version of JDK. It’s a lot to download, not to mention the SDK packages waiting for you in Android SDK Manager. GDG Suzhou will show you how to save your bandwidth by making everything available on LAN.
 
+**Slides**
+
+At the moment you can find the slides here: https://dl.dropboxusercontent.com/u/13588955/GDG%20Global%20Summit%202015%20-%20Make%20a%20LAN%20mirror%20of%20everything%20you%20need%20to%20develop%20Android%20Apps.pdf
+
 <hr>
