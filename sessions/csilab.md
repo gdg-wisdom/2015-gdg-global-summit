@@ -1,5 +1,6 @@
 # Day1: CSI:Lab
 
+## What is CSI Lab?
 This was a hands-on lab about prototyping with ice-breaker
 "rock, paper, scissors".
 
