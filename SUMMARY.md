@@ -8,9 +8,9 @@
    * [Web Keynote](sessions/web_keynote.md)
    * [GDG Wisdom](sessions/gdg_wisdom.md)
    * [CSI:Lab](sessions/csilab.md)
+* Non-Violent Communication
 * [Garages](garages/README.md)
 * [Unconferences](unconferences/README.md)
 * [Sandbox](sandbox/README.md)
 * [Glossary](GLOSSARY.md)
-* Non-Violent Communication
 
