@@ -11,3 +11,8 @@ No more native App!! Create great web app that runs inside browsers, thanks to:
 * use html5 input type let's devices show specialized keyboard layouts
 * let's interact google.github.io/physical-web/
 
+For the offline wiki app see: https://offline-wiki.jakearchibald.com and https://github.com/jakearchibald/offline-wikipedia
+
+For the Voice Memos see https://voice-memos.appspot.com and the code https://github.com/GoogleChrome/voice-memos
+
+[Slides are available at Google Drive](https://docs.google.com/presentation/d/1WLi-_iHgFitgxaQLSDoC5eVDABR_9yCWWgpMfZQM8Mw/edit#slide=id.g518e34c0a_0_17)
