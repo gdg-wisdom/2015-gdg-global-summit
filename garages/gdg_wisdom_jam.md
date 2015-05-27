@@ -6,7 +6,7 @@ Come up and start using markdown for all the great ideas you have for sharing yo
 
 | Session | Time | Speaker | Attendees |
 | --- | --- | --- | --- | 
-| GDG Wisdom | 11:00 | Nitya | 18 |
+| GDG Wisdom | 11:00 | Nitya | 19 |
 
 ##Markdown is super cool and so is gitbook!!!!!!!
 
